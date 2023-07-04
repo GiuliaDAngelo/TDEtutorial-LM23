@@ -1,5 +1,9 @@
+
+![lm2023](https://github.com/GiuliaDAngelo/TDEtutorial-LM23/assets/24890035/c7fc6755-facf-4dea-a24b-49a5d73d23fc)
+
+
 # TDEtutorial-LM23
-Tutorial for Living Machine conference 2023! 
+Tutorial for Living Machine Conference 2023! 
 
 ## 📝 How to Open Google Colab
 
